@@ -1,0 +1,6 @@
+D:\DesktopSolution\FeatureDllList\ProductionsDll\test\bin\Debug\test.dll
+D:\DesktopSolution\FeatureDllList\ProductionsDll\test\bin\Debug\test.pdb
+D:\DesktopSolution\FeatureDllList\ProductionsDll\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\DesktopSolution\FeatureDllList\ProductionsDll\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\FeatureDllList\ProductionsDll\test\obj\Debug\test.dll
+D:\DesktopSolution\FeatureDllList\ProductionsDll\test\obj\Debug\test.pdb

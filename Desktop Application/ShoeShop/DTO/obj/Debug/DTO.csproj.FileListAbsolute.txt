@@ -1,0 +1,12 @@
+D:\Bài Tập\Desktop Application\ShoeShop\DTO\bin\Debug\DTO.dll
+D:\Bài Tập\Desktop Application\ShoeShop\DTO\bin\Debug\DTO.pdb
+D:\Bài Tập\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Bài Tập\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Bài Tập\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.dll
+D:\Bài Tập\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\DTO\bin\Debug\DTO.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\DTO\bin\Debug\DTO.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DesktopSolution\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\DTO\obj\Debug\DTO.pdb

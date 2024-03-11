@@ -1,0 +1,10 @@
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe.config
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\bin\Debug\ShoeShop.pdb
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Properties.Resources.resources
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe
+D:\Bài Tập\Desktop Application\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pdb

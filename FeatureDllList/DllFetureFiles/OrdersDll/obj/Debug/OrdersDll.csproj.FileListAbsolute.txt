@@ -1,0 +1,13 @@
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\OrdersDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\OrdersDll.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\DAL.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\DTO.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\DAL.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\DTO.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\obj\Debug\OrdersDll.csproj.AssemblyReference.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\obj\Debug\OrdersDll.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\obj\Debug\OrdersDll.csproj.CopyComplete
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\obj\Debug\OrdersDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\obj\Debug\OrdersDll.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\ProductionsDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\OrdersDll\bin\Debug\ProductionsDll.pdb

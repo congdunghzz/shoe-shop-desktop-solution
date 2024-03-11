@@ -1,0 +1,11 @@
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\bin\Debug\WarehouseDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\bin\Debug\WarehouseDll.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\bin\Debug\DAL.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\bin\Debug\DTO.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\bin\Debug\DAL.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\bin\Debug\DTO.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\obj\Debug\WarehouseDll.csproj.AssemblyReference.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\obj\Debug\WarehouseDll.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\obj\Debug\WarehouseDll.csproj.CopyComplete
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\obj\Debug\WarehouseDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\WarehouseDll\obj\Debug\WarehouseDll.pdb

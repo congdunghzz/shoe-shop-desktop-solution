@@ -1,0 +1,13 @@
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\ImportDetailsDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\ImportDetailsDll.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\DAL.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\DTO.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\DAL.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\DTO.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\obj\Debug\ImportDetailsDll.csproj.AssemblyReference.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\obj\Debug\ImportDetailsDll.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\obj\Debug\ImportDetailsDll.csproj.CopyComplete
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\obj\Debug\ImportDetailsDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\obj\Debug\ImportDetailsDll.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\ProductionsDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\ImportDetailsDll\bin\Debug\ProductionsDll.pdb

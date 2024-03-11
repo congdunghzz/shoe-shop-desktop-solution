@@ -1,0 +1,11 @@
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\bin\Debug\EmployeesDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\bin\Debug\EmployeesDll.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\obj\Debug\EmployeesDll.csproj.AssemblyReference.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\obj\Debug\EmployeesDll.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\obj\Debug\EmployeesDll.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\obj\Debug\EmployeesDll.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\bin\Debug\DAL.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\bin\Debug\DTO.dll
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\bin\Debug\DAL.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\bin\Debug\DTO.pdb
+D:\DesktopSolution\FeatureDllList\DllFetureFiles\EmployeesDll\obj\Debug\EmployeesDll.csproj.CopyComplete

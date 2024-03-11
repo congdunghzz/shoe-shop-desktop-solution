@@ -1,0 +1,27 @@
+D:\Bài Tập\Desktop Application\ShoeShop\BLL\bin\Debug\BLL.dll
+D:\Bài Tập\Desktop Application\ShoeShop\BLL\bin\Debug\BLL.pdb
+D:\Bài Tập\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Bài Tập\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Bài Tập\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.dll
+D:\Bài Tập\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\BLL.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\BLL.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\DAL.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\DTO.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\DAL.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\DTO.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\obj\Debug\BLL.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\ProductionsDll.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\ProductionsDll.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\EmployeesDll.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\EmployeesDll.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\ImportDetailsDll.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\OrdersDll.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\ImportDetailsDll.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\OrdersDll.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\Report.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\BLL\bin\Debug\Report.pdb

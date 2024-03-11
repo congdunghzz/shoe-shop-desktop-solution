@@ -1,0 +1,18 @@
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\bin\Debug\DAL.dll
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\bin\Debug\DAL.pdb
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\bin\Debug\DTO.dll
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\bin\Debug\DTO.pdb
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.dll
+D:\Bài Tập\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\bin\Debug\DAL.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\bin\Debug\DAL.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\bin\Debug\DTO.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\bin\Debug\DTO.pdb
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.dll
+D:\DesktopSolution\Desktop Application\ShoeShop\DAL\obj\Debug\DAL.pdb
